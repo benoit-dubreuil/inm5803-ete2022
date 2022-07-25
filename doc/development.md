@@ -18,6 +18,12 @@ pip install -r requirements.txt
 
 Install the project in develop mode :
 
+
+```sh
+pip install --editable .
+```
+
+
 ## Conventions
 
 See [conventions](dev-conventions.md)
